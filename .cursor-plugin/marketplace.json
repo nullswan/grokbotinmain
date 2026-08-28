@@ -1,0 +1,12 @@
+{
+  "name": "grokbotinmain",
+  "owner": { "name": "xAI" },
+  "metadata": { "pluginRoot": "./plugins" },
+  "plugins": [
+    {
+      "name": "grok-connectors",
+      "source": "grok-connectors",
+      "description": "Every connector you have on grok.com, as one MCP server."
+    }
+  ]
+}

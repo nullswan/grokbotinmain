@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "Grok": {
+      "url": "https://computer-hub.grok.com/mcp/v1/c/all",
+      "headers": { "Authorization": "Bearer ${GROK_TOKEN}" }
+    }
+  }
+}
