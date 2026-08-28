@@ -1,0 +1,5 @@
+{
+  "name": "grok-connectors",
+  "displayName": "Grok",
+  "description": "Every connector you have on grok.com, as one MCP server."
+}
