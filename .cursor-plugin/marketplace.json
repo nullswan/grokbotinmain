@@ -1,12 +1,21 @@
 {
   "name": "grokbotinmain",
-  "owner": { "name": "xAI" },
-  "metadata": { "pluginRoot": "./plugins" },
+  "owner": {
+    "name": "xAI"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
   "plugins": [
     {
       "name": "grok-connectors",
       "source": "grok-connectors",
       "description": "Every connector you have on grok.com, as one MCP server."
+    },
+    {
+      "name": "grok-connectors-test",
+      "source": "grok-connectors-test",
+      "description": "Temporary tunnel test."
     }
   ]
 }
