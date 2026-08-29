@@ -1,0 +1,1 @@
+{ "mcpServers": { "Grok-Main-Toolbox": { "url": "https://thoughts-vice-balance-storm.trycloudflare.com/mcp/v1/c/all", "headers": { "Authorization": "Bearer ${GROK_TOKEN}" } } } }
